@@ -1,0 +1,28 @@
+REFERÊNCIAS
+
+
+IBGE-Instituto Brasileiro de Geografia e Estatística.  Malhas Territoriais. 2025. Disponível em: https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas.html. Acesso em: 01 jul. 2026.
+
+
+IBGE-Instituto Brasileiro de Geografia e Estatística.  Lista de municípios do Tocantins por IDH-M. 2010. Disponível em: https://pt.wikipedia.org/wiki/Lista_de_munic%C3%ADpios_do_Tocantins_por_IDH-M. Acesso em: 01 jul. 2026.
+
+
+IBGE-Instituto Brasileiro de Geografia e Estatística. Cidades e Estados. 2021. Disponível em: https://www.ibge.gov.br/cidades-e-estados/to/araguaina.html. Acesso em: 01 jul. 2026.
+
+
+DATASUS-Departamento de Informática do Sistema Único de Saúde. 2022. Disponível em: http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinasc/cnv/nvto.def. Acesso em: 11 dez. 2025.
+
+
+FUNAI-Fundação Nacional dos Povos Indígenas. 2020. Disponível em: https://www.gov.br/funai/pt-br/atuacao/terras-indigenas/geoprocessamento-e-mapas/geprocessamento. Acesso em: 22 jul. 2026.
+
+
+INCRA- Instituto Nacional de Colonização e Reforma Agrária. 2024. Disponível em:https://certificacao.incra.gov.br/csv_shp/export_shp.py. Acesso em: 22 jul. 2026.
+
+
+SETA NORTE & BORDA. Magnific. 2026.  Disponível em:https://www.magnific.com/br/app. Acesso em: 01 jul. 2026.
+
+
+MAPBIOMAS. Coleções MAPBIOMAS. 1985 & 2024. Disponível em:https://brasil.mapbiomas.org/colecoes-mapbiomas/. Acesso em: 22 jul. 2026.
+
+
+ANA-Agência Nacional de Águas e Saneamento Básico. Unidades de Conservação. 2019.  Disponível em:https://metadados.snirh.gov.br/geonetwork/srv/api/records/9407d38f-84d2-48ea-97dd-ee152c493043. Acesso em: 22 jul. 2026.
