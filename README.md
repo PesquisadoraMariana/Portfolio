@@ -1,4 +1,4 @@
-# Portfólio [![QGIS](https://img.shields.io/badge/QGIS-93b023?style=flat-square&logo=qgis&logoColor=white)](https://qgis.org/) 
+# Portfólio
 Este é o primeiro repositório dedicado à publicação dos meus mapas cartográficos.
 
 # **1- Atlas para a Universidade Federal do Norte do Tocantins**
@@ -12,7 +12,7 @@ Este atlas está vinculado ao Observatório da Região de Influência Imediata d
 # Período de elaboração do Atlas
 O atlas teve sua elaboração iniciada em 04 de julho de 2026 e foi finalizado em 24 de julho de 2026.
 
-# Software utilizado
+# Software utilizado [![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)](https://grok.x.ai/) [![QGIS](https://img.shields.io/badge/QGIS-93b023?style=for-the-badge&logo=qgis&logoColor=white)](https://qgis.org/) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
 Os mapas foram elaborados no software QGIS versão 3.44.7 (Solothurn). Desafiei-me a utilizar a linguagem Python pela primeira vez para automatizar diversas operações, como a definição de caminhos de pastas, interseções e recortes dentro da malha da RIIA, salvamento de camadas temporárias, adição de separador de milhar e a automatização por meio da função Atlas do próprio Compositor de Impressão. Também aprendi a função de copiar estilos (ou partes deles) para replicá-los em outras camadas.
 
 O projeto está comigo e será disponibilizado com o nome “0. BDG_25_06_2026”.
@@ -23,10 +23,11 @@ Tentei enviar o banco de dados para o GitHub, porém não foi permitido, pois o 
 Além disso, deixo registrada uma pendência para os próximos atlas: aprender a rotular os limites da cidade em foco por meio de código Python. Embora tenha tentado, não consegui realizar essa etapa de forma automatizada e precisei fazê-la manualmente. Apesar de ter gostado do processo, pois me ajudou a decorar a região de estudo, ele exigiu muitos cliques (risco ergonômico) e ainda apresentava possibilidade de erro.
 
 # Habilidades adquiridas após e elaboração do Atlas
+GROK⭐ ⭐ ⭐ 
 
-Melhora na criação de prompts com uso do Grok ★★★★  
-QGIS ★★★  
-Python ★
+QGIS⭐ ⭐ ⭐ 
+
+PHYTON⭐ 
 
 ## Autoria
 Mapas elaborados por **Mariana Coelho Lima**, sob orientação de professores doutores da Universidade Federal do Norte do Tocantins (UFNT).
