@@ -1,5 +1,4 @@
-# Portfólio [![QGIS](https://img.shields.io/badge/QGIS-93b023?style=for-the-badge&logo=qgis&logoColor=white)](https://qgis.org/)
-
+# Portfólio [![QGIS](https://img.shields.io/badge/QGIS-93b023?style=flat&logo=qgis&logoColor=white)](https://qgis.org/)
 
 Este é o meu primeiro repositório dedicado à publicação dos meus mapas cartográficos.
 
