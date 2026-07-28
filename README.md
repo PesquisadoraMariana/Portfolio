@@ -1,5 +1,4 @@
-# Portfólio [![QGIS](https://img.shields.io/badge/QGIS-93b023?style=flat&logo=qgis&logoColor=white)](https://qgis.org/) [![QGIS](https://img.shields.io/badge/QGIS-93b023?style=flat-square&logo=qgis&logoColor=white)](https://qgis.org/) [![Made with QGIS](https://img.shields.io/badge/Made%20with-QGIS-93b023?style=for-the-badge&logo=qgis&logoColor=white)](https://qgis.org/)
-
+# Portfólio [![QGIS](https://img.shields.io/badge/QGIS-93b023?style=flat-square&logo=qgis&logoColor=white)](https://qgis.org/) 
 Este é o meu primeiro repositório dedicado à publicação dos meus mapas cartográficos.
 
  # **1- Atlas para a Universidade Federal do Norte do Tocantins**
@@ -28,3 +27,6 @@ Além disso, deixo registrada uma pendência para os próximos atlas: aprender a
 Melhora na criação de prompts com uso do Grok ★★★★  
 QGIS ★★★  
 Python ★
+
+# Autora da elaboração
+Mariana Coelho Lima com orientação de doutores da UFNT.
