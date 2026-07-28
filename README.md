@@ -1,12 +1,18 @@
 # Portfólio
 Este é o meu primeiro repositório dedicado à publicação dos meus mapas cartográficos.
 
- **1- Atlas para a Universidade Federal do Norte do Tocantins**
+ # **1- Atlas para a Universidade Federal do Norte do Tocantins**
 
-O atlas teve sua elaboração iniciada em 04 de julho de 2026 e foi finalizado em 24 de julho de 2026.
+# Sobre o projeto
+
+Mapear a Região de Influência Imediata de Araguaína (RIIA) com o intuito de apoiar as ações do Observatório da Região de Influência Imediata de Araguaína – TO, da Universidade Federal do Norte do Tocantins (UFNT), e aprimorar a distribuição de conteúdos, dados e materiais nas redes de instituições de ensino municipais e federais, contemplando tanto os canais digitais quanto os físicos. O mapeamento também se destina a servir de base cartográfica para futuros discentes do Programa de Pós-Graduação em Demandas Populares e Dinâmicas Regionais (PPGDire) e de institutos que pretendam estudar os 21 municípios que compõem a região: Araguaína, Ananás, Angico, Aragominas, Araguanã, Arapoema, Babaçulândia, Barra do Ouro, Campos Lindos, Carmolândia, Darcinópolis, Filadélfia, Goiatins, Muricilândia, Nova Olinda, Pau-d’Arco, Piraquê, Riachinho, Santa Fé do Araguaia, Wanderlândia e Xambioá.
 
 Este atlas está vinculado ao Observatório da Região de Influência Imediata de Araguaína (RIIA), disponível no site: https://oobra.com.br/.
 
+# Período de elaboração do Atlas
+O atlas teve sua elaboração iniciada em 04 de julho de 2026 e foi finalizado em 24 de julho de 2026.
+
+# Software utilizado
 Os mapas foram elaborados no software QGIS versão 3.44.7 (Solothurn). Desafiei-me a utilizar a linguagem Python pela primeira vez para automatizar diversas operações, como a definição de caminhos de pastas, interseções e recortes dentro da malha da RIIA, salvamento de camadas temporárias, adição de separador de milhar e a automatização por meio da função Atlas do próprio Compositor de Impressão. Também aprendi a função de copiar estilos (ou partes deles) para replicá-los em outras camadas.
 
 O projeto está comigo e será disponibilizado com o nome “0. BDG_25_06_2026”.
@@ -16,9 +22,8 @@ Tentei enviar o banco de dados para o GitHub, porém não foi permitido, pois o 
 
 Além disso, deixo registrada uma pendência para os próximos atlas: aprender a rotular os limites da cidade em foco por meio de código Python. Embora tenha tentado, não consegui realizar essa etapa de forma automatizada e precisei fazê-la manualmente. Apesar de ter gostado do processo, pois me ajudou a decorar a região de estudo, ele exigiu muitos cliques (risco ergonômico) e ainda apresentava possibilidade de erro.
 
-Habilidades adquiridas após e elaboração do Atlas:
+# Habilidades adquiridas após e elaboração do Atlas
 
 Melhora na criação de prompts com uso do Grok ★★★★  
 QGIS ★★★  
 Python ★
-
