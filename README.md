@@ -29,5 +29,26 @@ QGIS⭐ ⭐ ⭐
 
 PHYTON⭐ 
 
+# Capturas de tela
+# I. Organização das pastas
+<img width="569" height="389" alt="image" src="https://github.com/user-attachments/assets/fce249f8-be7f-43b3-b191-6026f2c29d54" />
+
+# II. Comandos phytons (Caminhos)
+<img width="1174" height="927" alt="image" src="https://github.com/user-attachments/assets/8e34ff2a-05fc-4239-8d80-4184a33580c4" />
+
+# III. Comando phyton (interseção)
+<img width="625" height="867" alt="image" src="https://github.com/user-attachments/assets/cfb889a8-9b3e-4e94-aa85-b881cd8cc827" />
+
+# IV. Comando phyton (pontuação do milhar)
+<img width="820" height="585" alt="image" src="https://github.com/user-attachments/assets/a434073a-906f-4860-852c-ef8bee710696" />
+
+# V. Área de trabalho do QGIS (foco no repositório curto (C:))
+<img width="1325" height="993" alt="image" src="https://github.com/user-attachments/assets/77b88fbc-145b-464c-8a19-21e8f74300c7" />
+
+# VI. Elaboração de prompt
+<img width="706" height="210" alt="image" src="https://github.com/user-attachments/assets/af02fe57-1333-4c18-a6eb-e984baada4e9" />
+
 ## Autoria
 Mapas elaborados por **Mariana Coelho Lima**, sob orientação de professores doutores da Universidade Federal do Norte do Tocantins (UFNT).
+
+
