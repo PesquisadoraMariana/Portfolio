@@ -1,7 +1,7 @@
 # Portfólio [![QGIS](https://img.shields.io/badge/QGIS-93b023?style=flat-square&logo=qgis&logoColor=white)](https://qgis.org/) 
 Este é o meu primeiro repositório dedicado à publicação dos meus mapas cartográficos.
 
- # **1- Atlas para a Universidade Federal do Norte do Tocantins**
+# **1- Atlas para a Universidade Federal do Norte do Tocantins**
 
 # Sobre o projeto
 
