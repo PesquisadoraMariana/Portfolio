@@ -45,8 +45,12 @@ PHYTON⭐
 # V. Área de trabalho do QGIS (foco no repositório curto (C:))
 <img width="1325" height="993" alt="image" src="https://github.com/user-attachments/assets/77b88fbc-145b-464c-8a19-21e8f74300c7" />
 
-# VI. Exemplo de prompt no Grok (consegui assimilar a pasta do shp mediante as limitações do qgis)
+# VI. Exemplo de prompt no Grok (consegui assimilar a pasta do SHP mediante as limitações do qgis)
 <img width="706" height="210" alt="image" src="https://github.com/user-attachments/assets/af02fe57-1333-4c18-a6eb-e984baada4e9" />
+
+# VII. Fontes (camadas SHP disponíveis na íntegra)
+<img width="1350" height="402" alt="image" src="https://github.com/user-attachments/assets/1addddc6-6a43-4a82-9924-bcafb0b3adab" />
+
 
 ## Autoria
 Mapas elaborados por **Mariana Coelho Lima**, sob orientação de professores doutores da Universidade Federal do Norte do Tocantins (UFNT).
