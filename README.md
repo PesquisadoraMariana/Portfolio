@@ -12,7 +12,7 @@ Este atlas está vinculado ao Observatório da Região de Influência Imediata d
 # Período de elaboração do Atlas
 O atlas teve sua elaboração iniciada em 04 de julho de 2026 e foi finalizado em 24 de julho de 2026.
 
-# Software utilizado [![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)](https://grok.x.ai/) [![QGIS](https://img.shields.io/badge/QGIS-93b023?style=for-the-badge&logo=qgis&logoColor=white)](https://qgis.org/) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
+# Softwares utilizados [![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)](https://grok.x.ai/) [![QGIS](https://img.shields.io/badge/QGIS-93b023?style=for-the-badge&logo=qgis&logoColor=white)](https://qgis.org/) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
 Os mapas foram elaborados no software QGIS versão 3.44.7 (Solothurn). Desafiei-me a utilizar a linguagem Python pela primeira vez para automatizar diversas operações, como a definição de caminhos de pastas, interseções e recortes dentro da malha da RIIA, salvamento de camadas temporárias, adição de separador de milhar e a automatização por meio da função Atlas do próprio Compositor de Impressão. Também aprendi a função de copiar estilos (ou partes deles) para replicá-los em outras camadas.
 
 O projeto está comigo e será disponibilizado com o nome “0. BDG_25_06_2026”.
