@@ -53,6 +53,6 @@ PHYTON⭐
 
 
 # Autoria
-Mapas elaborados por **Mariana Coelho Lima**, sob orientação de professores doutores da Universidade Federal do Norte do Tocantins (UFNT).
+Mapas elaborados por 🧙‍♀️**Mariana Coelho Lima**, sob orientação de professores doutores da Universidade Federal do Norte do Tocantins (UFNT).
 
 
