@@ -39,7 +39,7 @@ PHYTON⭐
 ## III. Comando python (interseção)
 <img width="625" height="867" alt="image" src="https://github.com/user-attachments/assets/cfb889a8-9b3e-4e94-aa85-b881cd8cc827" />
 
-## IV. Comando python (consolidei a pontuação do milhar nos números e concluí a mudança de 10000 para 10.000)
+## IV. Comando python (consolidei a pontuação do milhar: 10000 para 10.000)
 <img width="820" height="585" alt="image" src="https://github.com/user-attachments/assets/a434073a-906f-4860-852c-ef8bee710696" />
 
 ## V. Área de trabalho do QGIS (foco no repositório curto (C:))
