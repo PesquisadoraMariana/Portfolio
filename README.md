@@ -30,29 +30,29 @@ QGIS⭐ ⭐ ⭐
 PHYTON⭐ 
 
 # Capturas de tela
-# I. Organização das pastas (hierarquias)
+## I. Organização das pastas (hierarquias)
 <img width="569" height="389" alt="image" src="https://github.com/user-attachments/assets/fce249f8-be7f-43b3-b191-6026f2c29d54" />
 
-# II. Comando python (caminhos)
+## II. Comando python (caminhos)
 <img width="1174" height="927" alt="image" src="https://github.com/user-attachments/assets/8e34ff2a-05fc-4239-8d80-4184a33580c4" />
 
-# III. Comando python (interseção)
+## III. Comando python (interseção)
 <img width="625" height="867" alt="image" src="https://github.com/user-attachments/assets/cfb889a8-9b3e-4e94-aa85-b881cd8cc827" />
 
-# IV. Comando python (consolidei a pontuação do milhar nos números e concluí a mudança de 10000 para 10.000)
+## IV. Comando python (consolidei a pontuação do milhar nos números e concluí a mudança de 10000 para 10.000)
 <img width="820" height="585" alt="image" src="https://github.com/user-attachments/assets/a434073a-906f-4860-852c-ef8bee710696" />
 
-# V. Área de trabalho do QGIS (foco no repositório curto (C:))
+## V. Área de trabalho do QGIS (foco no repositório curto (C:))
 <img width="1325" height="993" alt="image" src="https://github.com/user-attachments/assets/77b88fbc-145b-464c-8a19-21e8f74300c7" />
 
-# VI. Exemplo de prompt no Grok (consegui assimilar a pasta do SHP mediante as limitações do qgis)
+## VI. Exemplo de prompt no Grok (consegui assimilar a pasta do SHP mediante as limitações do qgis)
 <img width="706" height="210" alt="image" src="https://github.com/user-attachments/assets/af02fe57-1333-4c18-a6eb-e984baada4e9" />
 
-# VII. Fontes (camadas SHP disponíveis na íntegra)
+## VII. Fontes (camadas SHP disponíveis na íntegra)
 <img width="1350" height="402" alt="image" src="https://github.com/user-attachments/assets/1addddc6-6a43-4a82-9924-bcafb0b3adab" />
 
 
-## Autoria
+# Autoria
 Mapas elaborados por **Mariana Coelho Lima**, sob orientação de professores doutores da Universidade Federal do Norte do Tocantins (UFNT).
 
 
