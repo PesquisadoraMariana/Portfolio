@@ -56,7 +56,7 @@ Além disso, deixo registrada uma pendência para os próximos atlas: aprender a
 
 
 ## 🧙‍♀️ Autoria
-Mapas elaborados por **Mariana Coelho Lima**, sob orientação de professores doutores da Universidade Federal do Norte do Tocantins (UFNT).
+Mapas elaborados por **Mariana Coelho Lima**, sob orientação de professores doutores da **Universidade Federal do Norte do Tocantins (UFNT)**.
 
 >  🗺️ "Que estes mapas sirvam de bússola para quem busca compreender as dinâmicas da terra.”
 
