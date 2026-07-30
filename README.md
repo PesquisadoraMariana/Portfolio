@@ -22,12 +22,11 @@ Tentei enviar o banco de dados para o GitHub, porém não foi permitido, pois o 
 
 Além disso, deixo registrada uma pendência para os próximos atlas: aprender a rotular os limites da cidade em foco por meio de código Python. Embora tenha tentado, não consegui realizar essa etapa de forma automatizada e precisei fazê-la manualmente. Apesar de ter gostado do processo, pois me ajudou a decorar a região de estudo, ele exigiu muitos cliques (risco ergonômico) e ainda apresentava possibilidade de erro.
 
-# Habilidades adquiridas após e elaboração do Atlas
-GROK⭐ ⭐ ⭐ 
+#🔮 Feitiços Aprendidos neste Atlas
 
-QGIS⭐ ⭐ ⭐ 
-
-PHYTON⭐ 
+- ⭐⭐⭐ **Invocação de Camadas** (QGIS)
+- ⭐⭐⭐ **Comunhão com a IA** (Grok)
+- ⭐     **Automação Arcana** (Python)
 
 # Capturas de tela
 ## I. Organização das pastas (hierarquias)
@@ -51,6 +50,9 @@ PHYTON⭐
 ## VII. Fontes (camadas SHP disponíveis na íntegra)
 <img width="1350" height="402" alt="image" src="https://github.com/user-attachments/assets/1addddc6-6a43-4a82-9924-bcafb0b3adab" />
 
+# 🌌 Próximas Missões da Cartógrafa
+
+- [ ] Automatizar rotulagem de limites municipais com Python
 
 # Autoria
 Mapas elaborados por 🧙‍♀️**Mariana Coelho Lima**, sob orientação de professores doutores da Universidade Federal do Norte do Tocantins (UFNT).
