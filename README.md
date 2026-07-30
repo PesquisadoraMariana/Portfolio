@@ -1,5 +1,5 @@
 # 🚀 Portfólio	 :comet:
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 
 
 Este é o primeiro repositório dedicado à publicação dos meus mapas cartográficos.
