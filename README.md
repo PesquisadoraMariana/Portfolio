@@ -12,7 +12,7 @@ Mapear a Região de Influência Imediata de Araguaína (RIIA) com o intuito de a
 
 Este atlas está vinculado ao Observatório da Região de Influência Imediata de Araguaína (RIIA), disponível no site: https://oobra.com.br/.
 
-# Período de elaboração do Atlas
+# Período de elaboração do atlas
 O atlas teve sua elaboração iniciada em 04 de julho de 2026 e foi finalizado em 24 de julho de 2026.
 
 # Softwares utilizados [![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)](https://grok.x.ai/) [![QGIS](https://img.shields.io/badge/QGIS-93b023?style=for-the-badge&logo=qgis&logoColor=white)](https://qgis.org/) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
@@ -25,7 +25,7 @@ Tentei enviar o banco de dados para o GitHub, porém não foi permitido, pois o 
 
 Além disso, deixo registrada uma pendência para os próximos atlas: aprender a rotular os limites da cidade em foco por meio de código Python. Embora tenha tentado, não consegui realizar essa etapa de forma automatizada e precisei fazê-la manualmente. Apesar de ter gostado do processo, pois me ajudou a decorar a região de estudo, ele exigiu muitos cliques (risco ergonômico) e ainda apresentava possibilidade de erro.
 
-# 🔮 Feitiços Aprendidos neste Atlas
+# 🔮 Feitiços aprendidos neste atlas
 
 - ⭐⭐⭐ **Invocação de Camadas** (QGIS)
 - ⭐⭐⭐ **Comunhão com a IA** (Grok)
@@ -53,7 +53,7 @@ Além disso, deixo registrada uma pendência para os próximos atlas: aprender a
 ## VII. Fontes (camadas SHP disponíveis na íntegra)
 <img width="1350" height="402" alt="image" src="https://github.com/user-attachments/assets/1addddc6-6a43-4a82-9924-bcafb0b3adab" />
 
-# 🌌 Próxima Missão da Cartógrafa
+# 🌌 Próxima missão da cartógrafa
 
 - [ ] Automatizar rotulagem de limites municipais com Python
 
