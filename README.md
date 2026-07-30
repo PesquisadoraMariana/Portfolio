@@ -22,7 +22,7 @@ Tentei enviar o banco de dados para o GitHub, porém não foi permitido, pois o 
 
 Além disso, deixo registrada uma pendência para os próximos atlas: aprender a rotular os limites da cidade em foco por meio de código Python. Embora tenha tentado, não consegui realizar essa etapa de forma automatizada e precisei fazê-la manualmente. Apesar de ter gostado do processo, pois me ajudou a decorar a região de estudo, ele exigiu muitos cliques (risco ergonômico) e ainda apresentava possibilidade de erro.
 
-#🔮 Feitiços Aprendidos neste Atlas
+# 🔮 Feitiços Aprendidos neste Atlas
 
 - ⭐⭐⭐ **Invocação de Camadas** (QGIS)
 - ⭐⭐⭐ **Comunhão com a IA** (Grok)
