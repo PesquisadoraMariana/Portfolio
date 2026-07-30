@@ -50,11 +50,13 @@ Além disso, deixo registrada uma pendência para os próximos atlas: aprender a
 ## VII. Fontes (camadas SHP disponíveis na íntegra)
 <img width="1350" height="402" alt="image" src="https://github.com/user-attachments/assets/1addddc6-6a43-4a82-9924-bcafb0b3adab" />
 
-# 🌌 Próximas Missões da Cartógrafa
+# 🌌 Próxima Missõe da Cartógrafa
 
 - [ ] Automatizar rotulagem de limites municipais com Python
+
 
 # Autoria
 Mapas elaborados por 🧙‍♀️**Mariana Coelho Lima**, sob orientação de professores doutores da Universidade Federal do Norte do Tocantins (UFNT).
 
+##   🗺️ "Que estes mapas sirvam de bússola para quem busca compreender as dinâmicas da terra.”
 
