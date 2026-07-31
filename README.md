@@ -1,6 +1,6 @@
 # 🚀 Portfólio	 :comet:
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/PesquisadoraMariana/Portfolio/blob/main/LICENSE)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Este é o primeiro repositório dedicado à publicação dos meus mapas cartográficos.
 
